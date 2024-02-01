@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostelApiRest", "HostelApiRest\HostelApiRest.csproj", "{6952E159-8FAA-4692-9E93-1EFF92FBBD72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostelModels", "HostelModels\HostelModels.csproj", "{70A2B721-7314-4ABC-B721-DFD085C707DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6952E159-8FAA-4692-9E93-1EFF92FBBD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6952E159-8FAA-4692-9E93-1EFF92FBBD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6952E159-8FAA-4692-9E93-1EFF92FBBD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6952E159-8FAA-4692-9E93-1EFF92FBBD72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A2B721-7314-4ABC-B721-DFD085C707DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A2B721-7314-4ABC-B721-DFD085C707DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A2B721-7314-4ABC-B721-DFD085C707DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A2B721-7314-4ABC-B721-DFD085C707DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112AF903-ABF7-4A13-AA29-E387F58FFF7A}
+	EndGlobalSection
+EndGlobal

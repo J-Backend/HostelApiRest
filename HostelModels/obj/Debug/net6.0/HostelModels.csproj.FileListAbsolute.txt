@@ -1,0 +1,12 @@
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\bin\Debug\net6.0\HostelModels.deps.json
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\bin\Debug\net6.0\HostelModels.dll
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\bin\Debug\net6.0\HostelModels.pdb
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\HostelModels.csproj.AssemblyReference.cache
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\HostelModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\HostelModels.AssemblyInfoInputs.cache
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\HostelModels.AssemblyInfo.cs
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\HostelModels.csproj.CoreCompileInputs.cache
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\HostelModels.dll
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\refint\HostelModels.dll
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\HostelModels.pdb
+C:\Users\Dev12\source\repos\HostelApiRest\HostelModels\obj\Debug\net6.0\ref\HostelModels.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XUU5wzbtUJbwBODCxekFGH3dhZgwy2MfwRaaRex0Ks0=",
+  "Source": "HostelApiRest",
+  "BasePath": "_content/HostelApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
